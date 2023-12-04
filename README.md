@@ -2,7 +2,7 @@
 
 ## Overview
 
-TwitterLinkSwapper is a userscript designed to enhance your Twitter experience. It automatically swaps standard Twitter links with `fxtwitter` links when you copy a post link via the share button. This can be especially useful for users who prefer an alternative Twitter interface provided by `fxtwitter`.
+TwitterLinkSwapper is a userscript designed to enhance your Twitter experience. It automatically swaps standard Twitter links with `fxtwitter` links when you copy a post link via the share button. This can be especially useful for users who prefer the alternative Twitter embed handling provided by `fxtwitter`.
 
 ## Features
 
